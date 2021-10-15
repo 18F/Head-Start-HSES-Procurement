@@ -87,7 +87,7 @@ There is also a large backlog of feature-level work that touches many different 
 
 This work needs more than code alone; it also needs designers and product experts to learn more about the problems and the users to ensure that the end result is intuitive, easy to use, and efficiently solves real-world problems. This will require core agile, user-centered principles and practices to identify, design, build, and test new work that will remove problems and improve the user experience of HSES. We envision this will require multi-team coordination and knowledge in HSES and the workings of OHS that will be developed throughout the transition process.
 
-## Focus Area 5: Emergent Work in a Future-facing system 
+## Focus Area 5: Emergent Work in a Future-facing System 
 
 OHS is, by nature, an agency which adapts in real time to Congressional priorities and mandates. Just-in-time enhancements are vital to achieving agency goals. Currently, there are issues balancing those emergent and existing priorities that have led to halted or delayed feature work. Often, features take a long time to roll out.
 
