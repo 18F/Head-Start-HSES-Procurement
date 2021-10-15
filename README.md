@@ -15,7 +15,7 @@ We do not envision this effort to be a wholesale replacement of our existing sys
 
 ## Focus Area 1: System Availability and Resilience
 
-OHS relies on HSES for all aspects of its work; including rapid disbursement of funds and ongoing oversight of all Head Start grantees. HSES launched in 2008 and has grown into a [large system with a complex codebase](./appendix_a) reflective of its size and age. In order to illustrate the relative size of HSES and scale of work required to maintain and modernize it, the table below shows metrics of HSES in use at OHS today.
+OHS relies on HSES for all aspects of its work; including rapid disbursement of funds and ongoing oversight of all Head Start grantees. HSES launched in 2008 and has grown into a [large system with a complex codebase](./appendix_a.md) reflective of its size and age. In order to illustrate the relative size of HSES and scale of work required to maintain and modernize it, the table below shows metrics of HSES in use at OHS today.
 
 | Metric | HSES application code[^1] |
 |------ | ----- |
@@ -31,7 +31,7 @@ With this amount of complexity, the existing code base needs to be maintained an
 
 This work will help identify and design opportunities for smaller wins (band-aid solutions). We expect that, as situations present themselves, the work will include refactoring code to better align the application with the future-facing opportunities.
 
-[Current HSES technical and architectural details](./appendix_a)
+[Current HSES technical and architectural details](./appendix_a.md)
 
 ## Focus Area 2: Security and Compliance
 
