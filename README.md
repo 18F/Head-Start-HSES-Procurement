@@ -3,7 +3,7 @@
 _This RFI is scheduled to be released October 18th 2021. At that time, we will provide a list of questions and a link to the form to answer the questions._
 
 ## Executive Summary
-The Head Start Enterprise System (HSES) is the primary data management system of the Office of Head Start (OHS). The project's purpose is to continuously improve management and oversight of grantee organizations and program operations at the local, state, regional and national levels through growth and enhancements in the HSES system; and to provide leadership within the Administration with near real-time national-level reports as needed. HSES is also used to continuously improve OHS' ability to conduct fiscal management and program operations through a system that reflects an expert understanding of the macro and micro work of the OHS. HSES, in conjunction with the GrantSolutions grant award system, provides OHS with the ability to manage funds, performance, and to inform Congress on the operation and management of over $9 billion in federal funds for 2,000 annual grant awards. 
+The Head Start Enterprise System (HSES) is the primary data management system of the Office of Head Start (OHS). The project's purpose is to continuously improve management and oversight of grantee organizations and program operations at the local, state, regional and national levels through growth and enhancements in the HSES system; and to provide leadership within the Administration with near real-time, multi-level reports as needed. HSES is also used to continuously improve OHS' ability to conduct fiscal management and program operations through a system that reflects an expert understanding of the macro and micro work of the OHS. HSES, in conjunction with the GrantSolutions grant award system, provides OHS with the ability to manage funds, performance, and to inform Congress on the operation and management of over $9 billion in federal funds for 4,000 annual grant awards. 
 
 18F, in collaboration with Office of Head Start (OHS), have envisioned what is needed from a vendor team to maintain operations and modernize HSES through agile and user centered methodologies. The team makeup, standards, and practices will allow OHS and vendor team(s) to have the flexibility needed to:
 * Design and develop for evolving user needs
@@ -11,7 +11,7 @@ The Head Start Enterprise System (HSES) is the primary data management system of
 * Respond to disasters or other emergencies
 * Maintain the system’s interoperability, sustainability, and ability to transition to new vendor teams in the future. 
 
-We do not envision this effort to be a wholesale replacement of our existing system, but anticipate ongoing maintenance and feature work to evolve and modernize HSES.
+We do not expect this effort to be a wholesale replacement of our existing system, but anticipate ongoing maintenance and feature work to evolve and modernize HSES.
 
 ## Focus Area 1: System Availability and Resilience
 
