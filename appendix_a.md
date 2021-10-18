@@ -1,6 +1,6 @@
 # Appendix A: Technical details of HSES
 
-The production environment is hosted on the cloud.gov platform providing services for security, user applications, and data exchange. A Secure Sockets Layer (SSL) Gateway is used for System Administration access. HSES is rated FedRAMP Low. 
+The production environment is hosted on the cloud.gov platform providing services for security, user applications, and data exchange. A Secure Sockets Layer (SSL) Gateway is used for System Administration access. HSES is rated FedRAMP Low. The following versions are a snapshot of what was in use in May 2021, and some minor updates or patches may have been applied since then. However, these details are generally accurate for the HSES environment.
 
 HSES consists of:
 * Languages:
