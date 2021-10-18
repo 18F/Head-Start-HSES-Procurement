@@ -89,12 +89,12 @@ This work needs more than code alone; it also needs designers and product expert
 
 ## Focus Area 5: Emergent Work in a Future-facing System 
 
-OHS is, by nature, an agency which adapts in real time to Congressional priorities and mandates. Just-in-time enhancements are vital to achieving agency goals. Currently, there are issues balancing those emergent and existing priorities that have led to halted or delayed feature work. Often, features take a long time to roll out.
+OHS is, by nature, an agency which adapts in real time to Congressional priorities and mandates. Just-in-time enhancements are vital to achieving agency goals. Currently, there are issues balancing those emergent and existing priorities that have led to halted or delayed feature work.
 
 ### Background Details:
 
 In the past year, OHS has been awarded supplementary money from the American Rescue Plan to disburse to grantees. The HSES system had to very quickly:
-* Stand up new grants for every grantee
+* Stand up new grants for every child serving grantee
 * Design, develop and implement a new grant application process
 * Restructure permissions so that the new process could be done efficiently. 
 
@@ -136,7 +136,7 @@ HSES is a large and complex system, and requires a fully-staffed help desk to pr
 
 ### Needs for help desk:
 
-The help desk is the first line of contact for HSES users who are experiencing problems with the system. They will respond to calls and emails, triage issues, assist users with straightforward problems and escalate all other problems to the development team. This help desk coordinates with development teams to ensure timely resolution of all problems and gives users insight into the status of their problem. Additionally, the help desk staff will need to include some Spanish language coverage for regular support hours.
+The help desk is the first line of contact for HSES users who are experiencing problems or are new to the system. They will respond to calls and emails, triage issues, assist users with straightforward problems and escalate all other problems to the development team. This help desk coordinates with development teams to ensure timely resolution of all problems and gives users insight into the status of their problem. Additionally, the help desk staff will need to include some Spanish language coverage for regular support hours.
 
 ## Focus Area 8: Documentation and Communications
 
