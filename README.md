@@ -99,6 +99,7 @@ In the past year, OHS has been awarded supplementary money from the American Res
 * Restructure permissions so that the new process could be done efficiently. 
 
 While OHS has learned from previous emergent issues, this sort of mandate is, by nature, unpredictable and often has to happen very quickly. 
+
 ### Needs of emergent work in a future-facing system:
 
 As Congressional priorities and mandates roll out, OHS will require rapid development in certain priority areas. This work will not undergo the full agile process of engaging users in advance, but will still use core agile principles of determining minimum viable value and working in small steps to complete work in a way that still centers user experience.
@@ -113,7 +114,7 @@ OHS has reporting needs that are Congressionally mandated; but they would like t
 
 ### Needs for data insights:
 
-OHS would like to develop and maintain a deep understanding of the data sets that currently exist within the system. This will require research and supporting technical efforts to determine what data opportunities exist and the type of reporting that will allow OHS to better implement their goals.
+OHS would like to develop and maintain a deep understanding of the data sets that currently exist within the system. This will require research and supporting technical efforts to determine what data opportunities exist and the type of reporting and data visualizations that will allow OHS to better implement their goals.
 
 ## Focus Area 7: Coordination 
 
