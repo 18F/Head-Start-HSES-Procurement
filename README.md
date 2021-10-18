@@ -166,4 +166,4 @@ Having a collaborative plan for creating, updating, and assessing documentation 
 
 ## Responses to this RFI are due 10/26/2021 by 12pm EDT
 
-Please use [this Google form to submit your resposnes.](https://docs.google.com/forms/d/e/1FAIpQLSdS5FCiLwibwZyjapR5LS0XPGk-Y8aK_Uq1EqISwG9smDbDyQ/viewform) |
+Please use [this Google form to submit your responses.](https://docs.google.com/forms/d/e/1FAIpQLSdS5FCiLwibwZyjapR5LS0XPGk-Y8aK_Uq1EqISwG9smDbDyQ/viewform) |
