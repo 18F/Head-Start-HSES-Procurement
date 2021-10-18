@@ -5,7 +5,7 @@
 | 10/14/2021 | RFI is opened for vendor responses |
 | 10/26/2021 | 12pm EDT - [responses due from vendors in this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdS5FCiLwibwZyjapR5LS0XPGk-Y8aK_Uq1EqISwG9smDbDyQ/viewform) |
 
-[A listing of the RFI questions are available for your review](./rfi-questions.md) before submitting your responses.
+[The RFI questions are available for your review](./rfi-questions.md) before submitting your responses.
 
 ## Executive Summary
 The Head Start Enterprise System (HSES) is the primary data management system of the Office of Head Start (OHS). The project's purpose is to continuously improve management and oversight of grantee organizations and program operations at the local, state, regional and national levels through growth and enhancements in the HSES system; and to provide leadership within the Administration with near real-time, multi-level reports as needed. HSES is also used to continuously improve OHS' ability to conduct fiscal management and program operations through a system that reflects an expert understanding of the macro and micro work of the OHS. HSES, in conjunction with the GrantSolutions grant award system, provides OHS with the ability to manage funds, performance, and to inform Congress on the operation and management of over $9 billion in federal funds for 4,000 annual grant awards. 
@@ -168,6 +168,6 @@ Having a collaborative plan for creating, updating, and assessing documentation 
 
 ## Responses to this RFI are due 10/26/2021 by 12pm EDT
 
-[A listing of the RFI questions are available for your review](./rfi-questions.md) before submitting your responses.
+[The RFI questions are available for your review](./rfi-questions.md) before submitting your responses.
 
 Please use [this Google form to submit your responses.](https://docs.google.com/forms/d/e/1FAIpQLSdS5FCiLwibwZyjapR5LS0XPGk-Y8aK_Uq1EqISwG9smDbDyQ/viewform)
