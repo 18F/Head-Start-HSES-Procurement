@@ -1,6 +1,6 @@
 # HSES Cost RFI Questions 
 
-Note: All responses must be submitted using [this RFI response form on Google](https://docs.google.com/forms/d/e/1FAIpQLSdS5FCiLwibwZyjapR5LS0XPGk-Y8aK_Uq1EqISwG9smDbDyQ/viewform) no later than 12pm on 10/26/2021.
+Note: All responses must be submitted using [this RFI response form on Google](https://docs.google.com/forms/d/e/1FAIpQLSdS5FCiLwibwZyjapR5LS0XPGk-Y8aK_Uq1EqISwG9smDbDyQ/viewform) no later than 12pm EDT on 10/26/2021.
 
 ## Section 1 - Submitter's email address
 
