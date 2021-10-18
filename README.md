@@ -109,7 +109,7 @@ This team will also find opportunities for necessary but non-urgent work that it
 
 ### Background Details:
 
-OHS has reporting needs that are Congressionally mandated; but they would like to be able to better structure their data and reporting so that they can extract patterns to better serve grantees. Better data collection techniques and processes could allow OHS to unearth inequities, identify at-risk grantees, and help set grantees up for greater success by mapping long-run distribution patterns.
+OHS has reporting needs that are Congressionally mandated; but they would like to be able to better structure their data and reporting so that they can extract patterns to better serve grantees. Better data collection techniques,  processes, and visualizations could allow OHS to unearth inequities, identify at-risk grantees, and help set grantees up for greater success by mapping long-run distribution patterns.
 
 ### Needs for data insights:
 
