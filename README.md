@@ -144,7 +144,7 @@ HSES is a large and complex system, and requires a fully-staffed help desk to pr
 
 The help desk is the first line of contact for HSES users who are experiencing problems or are new to the system. They will respond to calls and emails, triage issues, assist users with straightforward problems and escalate all other problems to the development team. This help desk coordinates with development teams to ensure timely resolution of all problems and gives users insight into the status of their problem. Additionally, the help desk staff will need to include some Spanish language coverage for regular support hours.
 
-## Focus Area 8: Documentation and Communications
+## Focus Area 9: Documentation and Communications
 
 ### Background Details:
 
